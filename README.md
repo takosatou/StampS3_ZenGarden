@@ -5,6 +5,8 @@ Copyright (c) 2023 Takashi Satou
 
 Released under the MIT License, except LFGX_ESP32_SPI_GC9A01.hpp
 
+https://github.com/takosatou/StampS3_ZenGarden/assets/52827488/84fca4e2-703d-4c4a-bb39-f2006c119a1e
+
 ## A round LCD with M5StampS3
 https://www.switch-science.com/products/8971
 
